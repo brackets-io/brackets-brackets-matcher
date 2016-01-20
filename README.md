@@ -3,7 +3,7 @@ Brackets Matcher
 
 **Extension for [Adobe Brackets](http://brackets.io)**
 
-Select code between "", '', ``, [], (), and {}
+Select code between "", '', ``, [], (), and {} when will automatically close brackets
 
 ##Disabling
 

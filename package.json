@@ -1,9 +1,9 @@
 {
     "name": "brackets-brackets-matcher",
     "title": "Brackets Matcher",
-    "description": "Select code between \"\", '', [], (), and {} when will automatically close brackets",
+    "description": "Select code between \"\", '', ``, [], (), and {} when will automatically close brackets",
     "homepage": "https://github.com/dev-lukaszpolowczyk/brackets-brackets-matcher",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "author": "Dev Łukasz Polowczyk (https://github.com/dev-lukaszpolowczyk)",
     "license": "Unlicense",
     "categories": "formatting",

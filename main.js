@@ -72,8 +72,8 @@ define(function (require, exports, module) {
 			
 			var firstChar = change.text[0][0];
 			var lastChar = change.text[change.text.length-1][change.text[change.text.length-1].length-1];
-			var firstChars = ['"', "'", "{", "[", "("];
-			var lastChars = ['"', "'", "}", "]", ")"];
+			var firstChars = ['"', "'", "`", "{", "[", "("];
+			var lastChars = ['"', "'", "`", "}", "]", ")"];
 
 			if (!prefs.get("enabled") || !firstChars.includes(firstChar) || !lastChars.includes(lastChar)) {
 				return;

@@ -1,7 +1,6 @@
 /*jslint no-extend-native: false */
 /*global define, $, brackets */
 
-// When code is pasted in the editor, re-indent the changed lines.
 define(function () {
 	"use strict";
 	
@@ -62,8 +61,7 @@ define(function () {
 
 		var codeMirror = editor._codeMirror;
 
-		// Listen for change events. If this change is not a 'paste', or the
-		// extension is disabled, return early.
+		// Listen for change events
 		codeMirror.on("change", function (codeMirror, change) {
 			
 			var firstChar = change.text[0][0];

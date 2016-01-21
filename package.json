@@ -4,7 +4,7 @@
     "description": "Select code between \"\", '', ``, [], (), and {} when will automatically close brackets",
     "homepage": "https://github.com/lukaszpolowczyk/brackets-brackets-matcher",
     "version": "0.4.1",
-    "author": "Dev Łukasz Polowczyk (https://github.com/lukaszpolowczyk)",
+    "author": "Łukasz Polowczyk (https://github.com/lukaszpolowczyk)",
     "license": "Unlicense",
     "categories": "formatting",
     "keywords": [

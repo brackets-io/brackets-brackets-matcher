@@ -38,7 +38,7 @@ define(function () {
 		PreferencesManager = brackets.getModule("preferences/PreferencesManager"),
 		prefs = PreferencesManager.getExtensionPrefs("brackets-brackets-matcher");
 
-	// Define the `enabled` preference, default is `true`.
+	// xx Define the `enabled` preference, default is `true`.
 	prefs.definePreference("enabled", "boolean", "true");
 
 	function selectBetween(codeMirror, from, to, linesCount) {

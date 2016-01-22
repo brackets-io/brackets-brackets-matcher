@@ -61,7 +61,7 @@ define(function () {
 
 		var codeMirror = editor._codeMirror;
 
-		// Listen for change events
+		// vv Listen for change events
 		codeMirror.on("change", function (codeMirror, change) {
 			
 			var firstChar = change.text[0][0];

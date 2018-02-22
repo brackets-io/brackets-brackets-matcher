@@ -16,3 +16,4 @@ you to restart Brackets.
 1. Open the Extension Manager
 2. Search for "Brackets Matcher"
 3. Click "install"
+[ddd](#Install)
